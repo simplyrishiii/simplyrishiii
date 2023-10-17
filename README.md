@@ -1,35 +1,61 @@
-# Hey there, I'm Rishi! 👋
+<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h3 align="center">I'm passionate about technology & design</h3>
+<p align="center">When I'm not programming, you can find me doing workout, listening to podcasts or reading.</p>
 
-Welcome to my corner of GitHub! I'm Rishi, an aspiring Frontend Developer on an exhilarating journey through the world of web technologies. I'm captivated by the art of creating stunning user interfaces and crafting seamless user experiences. Join me as I embark on this coding odyssey, sharing my projects, lessons, and insights along the way.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simplyrishiii &label=Profile%20views&color=0e75b6&style=flat" alt="simplyrishiii" /> </p>
 
-## About Me
+<div align="center">
+  <p align="center">
+    - 🌱 I’m currently learning <strong>JavaScript, React, basically front-end development</strong>
+    <br />
+    - 📫 Reach me at <strong>rishisen979@gmail.com</strong>
+    <br />
+    - ⚡ Fun fact: <strong>I am a music addict</strong>
+  </p>
+</div>
 
-- 🌱 Exploring the vast landscape of frontend development, from HTML and CSS to modern JavaScript frameworks.
-- 🔭 Currently working on refining my skills by turning creative ideas into functional websites.
-- 👯 I'm enthusiastic about collaborating with designers, backend developers, and fellow frontend enthusiasts.
-- 💬 Let's chat about all things web development, UI/UX design, and the latest trends in the tech sphere.
-- ⚡ Fun Fact: I firmly believe that pixel-perfect design is a form of meditation!
 
-## Tech Stack & Tools
 
-Here's a glimpse of my current tech arsenal:
 
-- 💻 HTML, CSS, JavaScript: My trinity for building captivating and interactive interfaces.
-- 🎨 Figma: Where I translate design inspirations into prototypes.
-- 🚀 Visual Studio Code: My trusty companion for coding adventures.
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-## Current Endeavors
+<h3 align="center">Frameworks/Libraries:</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+</p>
 
-My journey in the world of frontend development is marked by these exciting goals:
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/log
 
-- [ ] Master a frontend framework like React to create dynamic and engaging user interfaces.
-- [ ] Contribute to open-source projects and collaborate with developers worldwide.
-- [ ] Create a personal website showcasing my projects and journey in the tech realm.
-- [ ] Dive deeper into responsive design and mobile-first development.
-- [ ] Explore the integration of animations and microinteractions for a delightful user experience.
 
-## Let's Connect
 
-I'm excited to connect with fellow frontend enthusiasts, designers, and anyone who shares the passion for creating visually appealing and user-centric digital experiences. Feel free to reach out via email at rishisen979@gmail.com.
-
-Together, let's sculpt the web, one pixel at a time! 🎨🚀
