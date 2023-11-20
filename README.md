@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about technology & design</h3>
 <p align="center">When I'm not programming, you can find me doing workout, listening to podcasts or reading.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simplyrishiii &label=Profile%20views&color=0e75b6&style=flat" alt="simplyrishiii" /> </p>
+<p align="center"> <img src="" /> </p>
 
 <div align="center">
   <p align="center">
