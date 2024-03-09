@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rishi, Aspiring FullStack Dev, from India</h2>
+<h3 align="center">Hi 👋! My name is Rishi, Aspiring FullStack Dev, from India</h3>
 
 ###
 
@@ -51,6 +51,7 @@
 <a href="https://instagram.com/thats.rishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thats.rishi_" height="30" width="40" /></a>
 </p>
 
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/simplyrishiii/simplyrishiii/output/snake.svg" alt="Snake animation" />
