@@ -39,12 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/simplyrishiii/simplyrishiii/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 </div>
@@ -57,6 +51,9 @@
 <a href="https://instagram.com/thats.rishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thats.rishi_" height="30" width="40" /></a>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/simplyrishiii/simplyrishiii/output/snake.svg" alt="Snake animation" />
 
 
 
